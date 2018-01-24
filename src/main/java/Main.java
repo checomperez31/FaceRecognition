@@ -14,14 +14,14 @@ public class Main {
             ReconoFac reconocer = ReconoFac.getInstance();
 
             //Entrenamiento
-            /*IplImage[] trainImages = new IplImage[10];
+            IplImage[] trainImages = new IplImage[10];
             for(int i=1; i<=10; i++){
                 trainImages[i-1]=cvLoadImage("terry"+i+".jpg");
                 CvSeq faces = reconocer.detectFace(trainImages[i-1]);
                 CvRect r = new CvRect(cvGetSeqElem(faces,0));
                 trainImages[i-1]=reconocer.preprocessImage(trainImages[i-1], r);
             }
-            reconocer.learnNewFace("John Terry", trainImages);*/
+            reconocer.learnNewFace("John Terry", trainImages);
 
             //Reconocimiento
             IplImage target = new IplImage();
