@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FaceRecognition.iml" filepath="$PROJECT_DIR$/.idea/modules/FaceRecognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FaceRecognition_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FaceRecognition_main.iml" group="FaceRecognition" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FaceRecognition_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FaceRecognition_test.iml" group="FaceRecognition" />
+    </modules>
+  </component>
+</project>

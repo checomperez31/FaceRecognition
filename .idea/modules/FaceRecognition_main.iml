@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="FaceRecognition:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:javacv:1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco.javacpp-presets:flandmark:1.07-1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco.javacpp-presets:opencv:android-arm:3.4.0-1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco.javacpp-presets:opencv:3.4.0-1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco.javacpp-presets:ffmpeg:3.4.1-1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco.javacpp-presets:flycapture:2.11.3.121-1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco.javacpp-presets:libdc1394:2.2.5-1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco.javacpp-presets:libfreenect:0.5.3-1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco.javacpp-presets:libfreenect2:0.2.0-1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco.javacpp-presets:librealsense:1.12.1-1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco.javacpp-presets:videoinput:0.200-1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco.javacpp-presets:artoolkitplus:2.3.1-1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.bytedeco:javacpp:1.4" level="project" />
+  </component>
+</module>
